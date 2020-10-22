@@ -1,0 +1,3 @@
+SIZE = 3
+T = 30
+GEN_STATES = False
